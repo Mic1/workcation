@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Los Angeles",
+    "description":
+      "Live like the stars in these luxurious Southern California estates.",
+    "properties": [
+      {
+        "property_id": 1,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "beds": 3,
+        "baths": 2,
+        "title": "Modern home in city center",
+        "price": 190000,
+        "reviewCount": 34,
+        "rating": 4,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 4, "reviews" : 49, "starColor": "text-teal-500" },
+          { "category": "Value", "starNum": 5, "rating": 4, "reviews" : 48, "starColor": "text-teal-500"  },
+          { "category": "Location", "starNum": 5, "rating": 4, "reviews" : 49, "starColor": "text-teal-500" },
+          { "category": "Amenities", "starNum": 5, "rating": 5, "reviews" : 40, "starColor": "text-teal-500"}
+        ]
+      },
+      {
+        "property_id": 2,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "beds": 4,
+        "baths": 1,
+        "title": "Quiet living outside the city",
+        "price": 175000,
+        "reviewCount": 12,
+        "rating": 3,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 5, "reviews" : 99, "starColor": "text-teal-500" },
+          { "category": "Value", "starNum": 5, "rating": 5, "reviews" : 90, "starColor": "text-teal-500" },
+          { "category": "Location", "starNum": 5, "rating": 5, "reviews" : 99, "starColor": "text-teal-500" },
+          { "category": "Amenities", "starNum": 5, "rating": 5, "reviews" : 80, "starColor": "text-teal-500"}
+        ]
+      },
+      {
+        "property_id": 3,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+        "beds": 5,
+        "baths": 4,
+        "title": "Renovated apartment uptown",
+        "price": 200000,
+        "reviewCount": 54,
+        "rating": 5,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 5, "reviews" : 34, "starColor": "text-teal-500" },
+          { "category": "Value", "starNum": 5, "rating": 5, "reviews" : 30, "starColor": "text-teal-500" },
+          { "category": "Location", "starNum": 5, "rating": 5, "reviews" : 34, "starColor": "text-teal-500" },
+          { "category": "Amenities", "starNum": 5, "rating": 5, "reviews" : 34, "starColor": "text-teal-500"}
+        ]
+      },
+      {
+        "property_id": 4,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1505691938895-1758d7feb511?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "beds": 3,
+        "baths": 2,
+        "title": "Family home in the suburbs",
+        "price": 115000,
+        "reviewCount": 34,
+        "rating": 4,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 5, "reviews" : 220, "starColor": "text-red-500" },
+          { "category": "Value", "starNum": 5, "rating": 5, "reviews" : 200, "starColor": "text-red-500" },
+          { "category": "Location", "starNum": 5, "rating": 5, "reviews" : 190, "starColor": "text-red-500" },
+          { "category": "Amenities", "starNum": 5, "rating": 5, "reviews" : 187, "starColor": "text-red-500"}
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Phoenix",
+    "description":
+      "Escape the cold and enjoy great weather without breaking the bank.",
+    "properties": [
+      {
+        "property_id": 5,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1447958272669-9c562446304f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+        "beds": 3,
+        "baths": 2,
+        "title": "Modern home in city center",
+        "price": 190000,
+        "reviewCount": 34,
+        "starNum": 5, "rating": 4,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 5, "reviews" : 75, "starColor": "text-teal-500" },
+          { "category": "Value", "starNum": 5, "rating": 5, "reviews" : 75, "starColor": "text-teal-500" },
+          { "category": "Location", "starNum": 5, "rating": 5, "reviews" : 70, "starColor": "text-teal-500" },
+          { "category": "Amenities", "starNum": 5, "rating": 4, "reviews" : 70, "starColor": "text-teal-500"}
+        ]
+      },
+      {
+        "property_id": 6,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+        "beds": 4,
+        "baths": 1,
+        "title": "Quiet living outside the city",
+        "price": 175000,
+        "reviewCount": 12,
+        "rating": 3,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 5, "reviews" : 34, "starColor": "text-teal-500" },
+          { "category": "Value", "starNum": 5, "rating": 5, "reviews" : 30, "starColor": "text-teal-500" },
+          { "category": "Location", "starNum": 5, "rating": 5, "reviews" : 34, "starColor": "text-teal-500" },
+          { "category": "Amenities", "starNum": 5, "rating": 5, "reviews" : 34, "starColor": "text-teal-500"}
+        ]
+      },
+      {
+        "property_id": 7,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1472224371017-08207f84aaae?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "beds": 5,
+        "baths": 4,
+        "title": "Renovated apartment uptown",
+        "price": 200000,
+        "reviewCount": 54,
+        "rating": 5,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 5, "reviews" : 110, "starColor": "text-teal-500" },
+          { "category": "Value", "starNum": 5, "rating": 5, "reviews" : 110, "starColor": "text-teal-500" },
+          { "category": "Location", "starNum": 5, "rating": 5, "reviews" : 110, "starColor": "text-teal-500" },
+          { "category": "Amenities", "starNum": 5, "rating": 5, "reviews" : 110, "starColor": "text-teal-500"}
+        ]
+      },
+      {
+        "property_id": 8,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "beds": 3,
+        "baths": 2,
+        "title": "Family home in the suburbs",
+        "price": 115000,
+        "reviewCount": 34,
+        "rating": 4,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 4, "reviews" : 58, "starColor": "text-teal-500" },
+          { "category": "Value", "starNum": 5, "rating": 4, "reviews" : 54, "starColor": "text-teal-500" },
+          { "category": "Location", "starNum": 5, "rating": 5, "reviews" : 60, "starColor": "text-teal-500" },
+          { "category": "Amenities", "starNum": 5, "rating": 4, "reviews" : 44, "starColor": "text-teal-500"}
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dallas",
+    "description":
+      "Experience Texas living in these awesome ranch-style homes.",
+    "properties": [
+      {
+        "property_id": 9,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1471231681582-352356ab45a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+        "beds": 3,
+        "baths": 2,
+        "title": "Modern home in city center",
+        "price": 190000,
+        "reviewCount": 34,
+        "rating": 4,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 5, "reviews" : 87, "starColor": "text-teal-500" },
+          { "category": "Value", "starNum": 5, "rating": 5, "reviews" : 61, "starColor": "text-teal-500" },
+          { "category": "Location", "starNum": 5, "rating": 4, "reviews" : 81, "starColor": "text-teal-500" },
+          { "category": "Amenities", "starNum": 5, "rating": 5, "reviews" : 80, "starColor": "text-teal-500"}
+        ]
+      },
+      {
+        "property_id": 10,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1533779283484-8ad4940aa3a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
+        "beds": 4,
+        "baths": 1,
+        "title": "Quiet living outside the city",
+        "price": 175000,
+        "reviewCount": 12,
+        "rating": 3,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 4, "reviews" : 21, "starColor": "text-teal-500" },
+          { "category": "Value", "starNum": 5, "rating": 4, "reviews" : 19, "starColor": "text-teal-500" },
+          { "category": "Location", "starNum": 5, "rating": 4, "reviews" : 28, "starColor": "text-teal-500" },
+          { "category": "Amenities", "starNum": 5, "rating": 4, "reviews" : 22, "starColor": "text-teal-500"}
+        ]
+      },
+      {
+        "property_id": 11,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1432303492674-642e9d0944b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "beds": 5,
+        "baths": 4,
+        "title": "Renovated apartment uptown",
+        "price": 200000,
+        "reviewCount": 54,
+        "rating": 5,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 5, "reviews" : 73, "starColor": "text-teal-500" },
+          { "category": "Value", "starNum": 5, "rating": 4, "reviews" : 54, "starColor": "text-teal-500" },
+          { "category": "Location", "starNum": 5, "rating": 5, "reviews" : 60, "starColor": "text-teal-500" },
+          { "category": "Amenities", "starNum": 5, "rating": 5, "reviews" : 60, "starColor": "text-teal-500"}
+        ]
+      },
+      {
+        "property_id": 12,
+        "imageUrl":
+          "https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        "beds": 3,
+        "baths": 2,
+        "title": "Family home in the suburbs",
+        "price": 115000,
+        "reviewCount": 34,
+        "rating": 4,
+        "ratingDetail": [
+          { "category": "Overall", "starNum": 5, "rating": 5, "reviews" : 67, "starColor": "text-teal-500" },
+          { "category": "Value", "starNum": 5, "rating": 5, "reviews" : 45, "starColor": "text-teal-500" },
+          { "category": "Location", "starNum": 5, "rating": 5, "reviews" : 67, "starColor": "text-teal-500"},
+          { "category": "Amenities", "starNum": 5, "rating": 4, "reviews" : 34, "starColor": "text-teal-500"}
+        ]
+      }
+    ]
+  }
+]
