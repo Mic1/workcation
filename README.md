@@ -4,26 +4,8 @@
 
 * NOTE: Latest versions of Firefox might not show UnSplash images by default. This can be fixed by typing "about:config" in browser URL bar, scrolling down to parameter "image.avif.enabled" and toggling it to "disabled"
 
-# The mission statement would be "What sets of tools are needed to do what Next13 does for React without using Next13?"
+# Next 13 is a full stack framework, that coupled with React 18 allows us to implement an efficient and elegant architecture for both DX and UX by interleaving server and client components. Full stack because it gives the full power of React when needed to  client components, and keeps the static part of the app rendering on the server with server components to fetch data and stream it in as ready. No more Next 12  hydration on the client.
 
+#The new Layout architecture of Next 13, components never renders unnecessarily as it only rerenders areas where data is added in.
 
-# The base application for a set of Routing and State examples.
-
-## Project uses a port of Adam Wathan's  ("Mr Tailwind") Tailwind Vue tutorial to React and Redux as its base application. Redux will be removed where appropriate.
-
-## A work in progress. Basic CRUD is being added.
-
-The plan is to take a modern-looking gui and show how routing and state can be implemented with various tools.
-SSR, streaming etc will be added to the various examples once they are reasonably functional
-
-Planned: 
-  1) Next13 - directory based routing, SSR, streaming etc
-  2) Redux and RTK Query
-  3) Redux and react-query
-  4) react-router
-  5) Redux and Sagas
-
-Planned. Since Vercel has now acquired Svelte, and the latest Sveltekit has directory based routing etc,
-the complete Next13 Workcation project will be converted to Sveltekit.
-  1) The app with Sveltekit and directory based routing
-
+#This necessitates a change of mind set to server-based thinking, where all components are server-based and client components are on.y used when they are needed.
