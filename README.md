@@ -19,3 +19,6 @@ The plan is to take an existing project ( Workcation - one of the original Tailw
 Then we will attempt to duplicate this code and architecture again using React 18 on the front end, but this time without Next 13. We want to see whether React 18 together with tools like react-router etc. can give us the streamlined dichotomy of server and client components, with its component promises and streaming data and its nested layouts with client components to minimize rerenders in both area and frequency .... quite simply "Can we do Next 13 without Next 13?
 
 A side project will write a Sveltekit/Svelte comparison to see how it architects this forward way of thinking about server - client code.
+
+
+### This repo contains the original WorkCation Vue to React application, and will hang around at least until the Workcation-next13 has cloned all the gui features
