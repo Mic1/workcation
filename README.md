@@ -4,8 +4,8 @@
 
 * NOTE: Latest versions of Firefox might not show UnSplash images by default. This can be fixed by typing "about:config" in browser URL bar, scrolling down to parameter "image.avif.enabled" and toggling it to "disabled"
 
-# Next 13 is a full stack framework, that coupled with React 18 allows us to implement an efficient and elegant architecture for both DX and UX by interleaving server and client components. Full stack because it gives the full power of React when needed to  client components, and keeps the static part of the app rendering on the server with server components to fetch data and stream it in as ready. No more Next 12  hydration on the client.
+## Next 13 is a full stack framework, that coupled with React 18 allows us to implement an efficient and elegant architecture for both DX and UX by interleaving server and client components. Full stack because it gives the full power of React when needed to  client components, and keeps the static part of the app rendering on the server with server components to fetch data and stream it in as ready. No more Next 12  hydration on the client.
 
-#The new Layout architecture of Next 13, components never renders unnecessarily as it only rerenders areas where data is added in.
+## The new Layout architecture of Next 13, components never renders unnecessarily as it only rerenders areas where data is added in.
 
-#This necessitates a change of mind set to server-based thinking, where all components are server-based and client components are on.y used when they are needed.
+## This necessitates a change of mind set to server-based thinking, where all components are server-based and client components are on.y used when they are needed.
