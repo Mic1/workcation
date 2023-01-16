@@ -12,4 +12,4 @@
 
 ### This necessitates a change of mind set to server-based thinking, where all components are server-based and client components are only used when they are needed.
 
-### A side effect of this might be a reusable set of client components, as the use of Layouts and nested layouts with page subsections focused on client interaction clearly delegates a narrow band of behaviour for us to code.
+### A side effect of this might be a reusable set of client components, as the use of Layouts and nested layouts with page subsections focused on client interaction clearly delegates a narrow band of behaviour for us to code into those client components.
