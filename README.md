@@ -13,3 +13,9 @@
 ### This necessitates a change of mind set to server-based thinking, where all components are server-based and client components are only used when they are needed.
 
 ### A side effect of this might be a reusable set of client components, as the use of Layouts and nested layouts with page subsections focused on client interaction clearly delegates a narrow band of behaviour for us to code into those client components.
+
+The plan is to take an existing project ( Workcation - one of the original Tailwind demos ported from Vue to React), and update to Next 13 and React 18 with efficient code and elegant architecture.
+
+Then we will attempt to duplicate this code and architecture again using React 18 on the front end, but this time without Next 13. We want to see whether React 18 together with tools like react-router etc. can give us the streamlined dichotomy of server and client components, with its component promises and streaming data and its nested layouts with client components to minimize rerenders in both area and frequency .... quite simply "Can we do Next 13 without Next 13?
+
+A side project will write a Sveltekit/Svelte comparison to see how it architects this forward way of thinking about server - client code.
